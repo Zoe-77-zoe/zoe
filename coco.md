@@ -1,12 +1,12 @@
 # 原圖
-![照片](/Users/xiecaiyi/Downloads/IMG_7779.JPG)
+![照片](![照片](照片/IMG_7779.JPG))
 
 # 生出來的圖
-![照片](/Users/xiecaiyi/Downloads/D8964147-8B98-489A-A98B-0A4304D828BA )
+![照片](![照片](照片/D8964147-8B98-489A-A98B-0A4304D828BA.JPG))
 
 
 # 工作流程圖
-![照片](/Users/xiecaiyi/Downloads/BCAC79E9-83A5-46A9-9612-ABF66C4D4A40.JPG)
+![照片](![照片](照片/BCAC79E9-83A5-46A9-9612-ABF66C4D4A40.JPG))
 
 
 # 正提示詞
